@@ -1,0 +1,12 @@
+,SciML (no labels)  vs  Conventional ML (tuned thr),SciML + fine-tune  vs  Conventional ML (tuned thr)
+Precision,0.871 vs 0.828 (+5%),0.878 vs 0.828 (+6%)
+Recall,0.780 vs 0.873 (-11%),0.884 vs 0.873 (+1%)
+F1,0.823 vs 0.850 (-3%),0.881 vs 0.850 (+4%)
+IoU,0.699 vs 0.739 (-5%),0.787 vs 0.739 (+6%)
+MCC,0.814 vs 0.840 (-3%),0.873 vs 0.840 (+4%)
+AP,0.904 vs 0.924 (-2%),0.952 vs 0.924 (+3%)
+tol-F1 (2 px),0.958 vs 0.970 (-1%),0.985 vs 0.970 (+2%)
+False alarms (FP),-36%,-32%
+Missed faults (FN),+73%,-8%
+ΔF1 95% CI,-0.035 to -0.019,+0.027 to +0.035
+P(SciML better),0.000,1.000

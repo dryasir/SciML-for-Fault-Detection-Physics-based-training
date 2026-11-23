@@ -1,0 +1,3 @@
+,flagged area (%),fault segments,mean segment length (px),isolated specks (% of flagged),"detections parallel to reflectors (<20°, %)",median angle to reflectors (°)
+Conventional ML,1.1508115483646286,112.0,20.241071428571427,5.494232915788168,19.484063003844724,46.20997619628906
+SciML,2.058986406636256,284.0,18.04225352112676,6.717038680160821,2.7103840288368226,67.29584503173828
